@@ -1,0 +1,21 @@
+package com.tricoeverfire.voxelite.blocks;
+
+import net.minecraft.block.SoundType;
+import net.minecraft.block.material.Material;
+import net.minecraft.init.Blocks;
+
+public class AvokinateBlock extends BlockBase{
+
+	public AvokinateBlock(String name, Material material) {
+		super(name, material);
+		setSoundType(SoundType.GLASS);
+		setHardness(15.0F);
+		setResistance(15.0F);
+		setHarvestLevel("pickaxe",2);
+		setLightLevel(12.0F);
+		//this.recolorBlock(world, pos, side, color)
+		
+	}
+
+
+}
