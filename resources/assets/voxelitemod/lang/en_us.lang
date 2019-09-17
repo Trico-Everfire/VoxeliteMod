@@ -1,0 +1,47 @@
+//items
+item.emerald_bucket_empty.name=Emerald Bucket
+item.avokinate_crystal.name=Avokinate Crystal
+item.emerald_bucket_voxelite.name=Voxelite Emerald Bucket
+item.avokinate_pickaxe.name=Avokinate Pickaxe
+item.charged_avokinate_pickaxe.name=Charged Avokinate Pickaxe
+item.avokinate_axe.name=Avokinate axe
+item.charged_avokinate_axe.name=Charged Avokinate axe
+item.avokinate_spade.name=Avokinate Shovel
+item.charged_avokinate_spade.name=Charged Avokinate Shovel
+item.avokinate_hoe.name=Avokinate Hoe
+item.charged_avokinate_hoe.name=Charged Avokinate Hoe
+item.avokinate_sword.name=Avokinate Sword
+item.charged_avokinate_sword.name=Charged Avokinate Sword
+item.iron_bow.name=Iron Bow
+item.diamond_shears.name=Diamond Shears
+item.iron_fishing_rod.name=Iron Fishing Rod
+item.iron_stick.name=Iron Stick
+item.avokinate_dust.name=Avokinate Dust
+item.avokinate_medal.name=Avokinate Medal
+item.charged_avokinate_crystal.name=Charged Avokinate Crystal
+item.alpha_berry.name=Alpha Berry
+item.omega_berry.name=Omega Berry
+item.voxelized_sludge.name=Voxelized Sludge
+
+//armor
+item.avokinate_leggings.name=Avokinate Leggings
+item.avokinate_helmet.name=Avokinate Helmet
+item.avokinate_boots.name=Avokinate Boots
+item.avokinate_chestplate.name=Avokinate Chestplate
+
+
+//blocks
+tile.bleached_block.name=Voxilized Block
+tile.avokinate_block.name=Block of Evokinate
+tile.avokinate_ore.name=Avokinate Ore
+tile.reinforced_glass.name=Reinforced Glass
+tile.cracked_reinforced_glass.name=Cracked Reinforced Glass
+
+//fluid
+fluid.liquid_voxelite=Liquid Voxelite
+
+//gui
+itemGroup.voxelitemod=Voxelite Mod
+
+//deathmessages
+death.attack.voxelized=%s succumbed to Voxelization.
